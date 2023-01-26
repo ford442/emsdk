@@ -16,8 +16,8 @@ import subprocess
 import os
 import shutil
 
-version = '14.18.2'
-base = 'https://nodejs.org/dist/latest-v14.x/'
+version = '19.5.0'
+base = 'https://nodejs.org/dist/latest-v19.x/'
 upload_base = 'gs://webassembly/emscripten-releases-builds/deps/'
 
 suffixes = [
