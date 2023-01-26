@@ -21,7 +21,6 @@ base = 'https://nodejs.org/dist/latest-v19.x/'
 upload_base = 'gs://webassembly/emscripten-releases-builds/deps/'
 
 suffixes = [
-  //  '-win-x64.zip',
     '-darwin-x64.tar.gz',
     '-linux-x64.tar.xz',
     '-linux-arm64.tar.xz',
